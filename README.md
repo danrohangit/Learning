@@ -1,2 +1,2 @@
 # Learning
-Includes draft algorithms and codes for a variety of programming languages
+Github Links that includes draft algorithms and codes for a variety of programming languages
